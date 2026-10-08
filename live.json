@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "home": "Team A",
+    "away": "Team B",
+    "league": "Premier League",
+    "status": "LIVE",
+    "video": "YOUR_AUTHORIZED_STREAM_URL"
+  }
+]
