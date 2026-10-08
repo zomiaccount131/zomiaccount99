@@ -1,1 +1,29 @@
-
+[
+  {
+    "id": 1,
+    "title": "Movie One",
+    "year": 2026,
+    "genre": "Action",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=500&q=80",
+    "description": "This is a demo action movie.",
+    "video": "YOUR_AUTHORIZED_VIDEO_URL"
+  },
+  {
+    "id": 2,
+    "title": "Movie Two",
+    "year": 2026,
+    "genre": "Drama",
+    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=500&q=80",
+    "description": "This is a demo drama movie.",
+    "video": "YOUR_AUTHORIZED_VIDEO_URL"
+  },
+  {
+    "id": 3,
+    "title": "Movie Three",
+    "year": 2026,
+    "genre": "Comedy",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=500&q=80",
+    "description": "This is a demo comedy movie.",
+    "video": "YOUR_AUTHORIZED_VIDEO_URL"
+  }
+]
